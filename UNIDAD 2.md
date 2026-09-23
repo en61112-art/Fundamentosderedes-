@@ -1,6 +1,6 @@
 ### Actividad 2.1
 
-![[Captura de pantalla 2026-09-22 a la(s) 8.13.31 p.m..png]]
+
 
 ### Red de Personal(PAN)
 Conecta dispositivos que pertenecen a una sola persona y estan a muy corta distancia entre si 
