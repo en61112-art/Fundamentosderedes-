@@ -23,3 +23,23 @@ ya no la administracion una sola organizacion suele deender de provedores de tel
 Comparacion por alcance de menor a mayor cobertura PAN (una persona) - LAN/WLAN (un edificio) - CAN (varios edificios)
 WAN(distintas ciudades y paises)
 
+### Actividad 2.3
+wifi 2 801.11.A
+wifi 4 802.11.B
+wifi 5 802.11.N
+wifi  1 802.11.AC
+wifi 6 802.11.G
+
+¿Que es el internet? 
+Es la red de redes:millones de WAN, LAN y redes de provedores distintos, interconectadas y funcioando bajo un mismo conjunto de protocolos.
+Ninguna empresa ni gobierno administrar Internet como un todo, cada red que la compone es administrar de ofrma independiente y se conecta a as demas por acuerdo muto.
+
+Que la hace funcionar 
+TCP/IP
+A travez de provedorees de serviciosde internet (ISP), organizadas en niveles:
+los ISP locales se conectan a otros mas grandes y estos entre si, hasta forma la red global 
+
+Puntos de intercambio (IXP) sitios fisicos donde distintos ISP conecectan su trafico directamente entre si, en lugar de enviarlo por una ruta mas larga, reducen latencia y costo de transito 
+Pregunta de examen 
+
+Internet es la infrastructura, la Web, el correo electronico, el streaming, y la mnsajeria son aplicaciones que se ejecutan 
