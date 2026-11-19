@@ -1,5 +1,6 @@
 Nombre: Emanuel Nuñez Llamas
 
+Actividad 2.1
 Campo 1
 Dato de ejemplo: 10101010 10101010 10101010 10101010 10101010 10101010 10101010 10101011 (8 bytes)
 Nombre del campo: el preambulo
